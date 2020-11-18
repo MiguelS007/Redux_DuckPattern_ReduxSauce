@@ -2,6 +2,9 @@
 
 Projeto utilizando o Duck Pattern e o Redux Sauce para organizar Reducers e Actions de forma escalável em uma aplicação.
 
+![enter image description here](https://github.com/MiguelS007/Redux_DuckPattern_ReduxSauce/blob/main/src/assets/WhatsApp%20Image%202020-11-18%20at%2009.43.08.jpeg?raw=true)
+
+
 ########################################################################################
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
